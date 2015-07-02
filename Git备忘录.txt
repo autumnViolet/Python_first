@@ -3,4 +3,4 @@ git log  查看git commit历史记录
 git log --pretty==online 显示成一行
 git reset --hard HEAD^ 回退到上一个版本
 git reflog 记录每一次命令 找到哈希值用reset 可以回退到任意版本
-git checkout --file 丢弃工作区修改
+git checkout --file 丢弃工作区修改, 也可以恢复版本库到工作区
