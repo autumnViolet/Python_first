@@ -1,2 +1,3 @@
 git diff 查看difference 查看修改了什么
 git log  查看git commit历史记录
+git log --pretty==online 显示成一行
